@@ -1,0 +1,16 @@
+.demonym_app {
+    background-color: beige;
+    margin: 0px;
+    padding: 0px;
+}
+
+.demonym {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.459);
+    color: white;
+    margin: 1%;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 0.5px solid lightpink;
+    font-size: 20px;
+}
